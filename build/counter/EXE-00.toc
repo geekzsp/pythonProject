@@ -1,4 +1,4 @@
-('/Users/moss/tmp/pythonProject/dist/counter',
+('/Users/moss/tmp/pythonProject/dist/windows/counter',
  False,
  False,
  False,
@@ -249,7 +249,7 @@
  [],
  False,
  False,
- 1658282169,
+ 1658286289,
  [('runw',
    '/Users/moss/mambaforge/envs/pythonProject/lib/python3.9/site-packages/PyInstaller/bootloader/Darwin-64bit/runw',
    'EXECUTABLE')])

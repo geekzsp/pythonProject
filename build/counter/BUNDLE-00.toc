@@ -1,1 +1,3 @@
-([('counter', '/Users/moss/tmp/pythonProject/dist/counter', 'EXECUTABLE')],)
+([('counter',
+   '/Users/moss/tmp/pythonProject/dist/windows/counter',
+   'EXECUTABLE')],)
