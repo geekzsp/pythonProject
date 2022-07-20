@@ -1,3 +1,0 @@
-([('counter',
-   '/Users/moss/tmp/pythonProject/dist/windows/counter',
-   'EXECUTABLE')],)
