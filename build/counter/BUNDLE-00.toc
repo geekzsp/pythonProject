@@ -1,0 +1,1 @@
+([('counter', '/Users/moss/tmp/pythonProject/dist/counter', 'EXECUTABLE')],)
